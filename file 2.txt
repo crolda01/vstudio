@@ -6,4 +6,6 @@ foo111111
 
 foo222222
 
+branch v2 chg commit 2.
+
 additional chg 1
