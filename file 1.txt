@@ -3,3 +3,5 @@ this is some text in file1
 blah11111
 
 blah2222
+
+additional chg1
